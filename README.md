@@ -1,9 +1,3 @@
-<style>
-body {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 11px;
-}
-</style>
 
 This whole conquest has been started by the mind-rotting, repeated YouTube short of Kevin Spacey — or some other XYZ list persona — acting as a professor during some quasi-mathematical lecture, being impressed by a young prodigy able to answer a complex logical question. I did this in part to spare the world the wrath my soul would unleash if I saw this aforementioned YouTube short again without attempting to disprove the explanation.
 
