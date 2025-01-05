@@ -5,6 +5,7 @@ car_counter_switch = 0
 car_counter_no_switch = 0
 goat_counter_switch = 0
 goat_counter_no_switch = 0
+attempt_iteration = range(6000)
 
 while True:
     # BASE VALUES
@@ -46,7 +47,7 @@ while True:
 
         # switch = input("\nDo you want to switch your pick to the leftover door? (y/n) => ")
         # SIMULATION BLOCK
-        for attempt in range(6000):
+        for attempt in attempt_iteration:
             if attempt_number < 3000:
                 switch = "y"
                 attempt_number += 1
