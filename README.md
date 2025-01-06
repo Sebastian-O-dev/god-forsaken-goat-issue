@@ -1,4 +1,3 @@
-
 This whole conquest has been started by the mind-rotting, repeated YouTube short of Kevin Spacey — or some other XYZ list persona — acting as a professor during some quasi-mathematical lecture, being impressed by a young prodigy able to answer a complex logical question. I did this in part to spare the world the wrath my soul would unleash if I saw this aforementioned YouTube short again without attempting to disprove the explanation.
 
 I repeatedly convinced myself that the explanation was surely flawed, without taking action. However, I have reached my breaking point. I told myself that the people who declare they seemingly understand the presented solution and agree with it are just morally corrupted liars or imbeciles. Maybe they, too, convince themselves of something far greater than themselves to avoid the outcome of truly confronting the issue.
@@ -16,3 +15,5 @@ I refuse this explanation. No one owes me a different one. There has to be more.
 Maybe it's my mortal ego. Maybe it is as simple as it is presented and obvious — it's 2/3 in favor of switching. Just maybe I can't bear the thought of truly comprehending this issue, or worse yet, accepting my intellectual inferiority. Could it be called inferiority if the sole criteria of inferiority are questioned?
 
 This isn't a manifesto. This is a cry for help or for pity. This isn't even closure. This is catharsis.
+
+[Edit 1 [6 Jan 2025]: Nevermind, I understood it. However, my point still stands about quantum mechanics and relative-relativity, people have written whole papers about this problem in this quantum perspective, arguing that having quantum knowledge about the problem being within the problem helps. Will post the answer in the near future.]
